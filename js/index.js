@@ -1,0 +1,5 @@
+//Insersion manual
+
+insertInfo('Lorem ipsum dolor sit amet consectetur adipiscing elit blandit lectus tellus, nibh feugiat cum mollis etiam vestibulum dictum phasellus tristique, cubilia felis suspendisse gravida nunc tincidunt vulputate eros laoreet. Felis montes phasellus quam senectus placerat porttitor cubilia dis, elementum facilisis dignissim natoque posuere iaculis conubia, ante scelerisque risus ut proin parturient pharetra. Dis posuere arcu eget leo nisl elementum curae, donec aliquet consequat dignissim odio netus hendrerit, libero convallis nulla suscipit mollis suspendisse.');
+
+insertInfo('Erat vulputate sed nunc accumsan elementum inceptos nullam turpis blandit torquent cum, viverra lacus odio cursus pellentesque curabitur gravida tincidunt taciti suspendisse. Aliquam imperdiet libero ligula malesuada nullam augue neque, molestie sociis torquent condimentum eu taciti curae nascetur, tempor nostra elementum ultricies porttitor arcu. Vel vehicula convallis non iaculis cursus vulputate turpis, ligula imperdiet fermentum mus suspendisse maecenas sociosqu felis, duis lacinia praesent ante lectus at.')

@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'letras1';
+    src: url('/fonts/Mose1-Regular.ttf');
+}
+@font-face {
+    font-family: 'letras2';
+    src: url('/fonts/Mose2-Regular.ttf');
+}
+@font-face {
+    font-family: 'letras3';
+    src: url('/fonts/Mose3-Regular.ttf');
+}
+@font-face {
+    font-family: 'letras4';
+    src: url('/fonts/Mose4-Regular.ttf');
+}
+@font-face {
+    font-family: 'letras5';
+    src: url('/fonts/Mose5-Regular.ttf');
+}
+@font-face {
+    font-family: 'numeros1';
+    src: url('/fonts/Num1-Regular.ttf');
+}
+@font-face {
+    font-family: 'numeros3';
+    src: url('/fonts/Num3-Regular.ttf');
+}
+@font-face {
+    font-family: 'numeros4';
+    src: url('/fonts/Num4-Regular.ttf');
+}
+@font-face {
+    font-family: 'numeros5';
+    src: url('/fonts/Num5-Regular.ttf');
+}
+
+#window{
+    width: 400px;
+    -webkit-box-shadow: -7px 9px 22px -8px rgba(0,0,0,0.75);
+    -moz-box-shadow: -7px 9px 22px -8px rgba(0,0,0,0.75);
+    box-shadow: -7px 9px 22px -8px rgba(0,0,0,0.75);
+    padding: 10px;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    z-index: 11;
+    background-color: white;
+}
+#close{
+    position: absolute;
+    right: 10px;
+
+}
+#content{
+    margin-top: 26px;
+    width: 98%;
+}
+#open{
+    position: fixed;
+    right: 20px;
+    z-index: 10;
+    top: 0px;
+}
